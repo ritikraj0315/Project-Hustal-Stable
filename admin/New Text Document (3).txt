@@ -1,0 +1,19 @@
+Generating public/private rsa key pair.
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /home/pheonixf/.ssh/id_rsa.
+Your public key has been saved in /home/pheonixf/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:c4cSCw/y0fGGd7AeOC5c6eFnEO9RfB6F/9BvpxOFKjE 
+The key's randomart image is:
++---[RSA 2048]----+
+|        o ...  o.|
+|       . O +. +  |
+|    . + @ O .o = |
+|     + X @E=  + +|
+|      + S Bo.. oo|
+|       . *... . =|
+|           .   +.|
+|              o  |
+|               . |
++----[SHA256]-----+
