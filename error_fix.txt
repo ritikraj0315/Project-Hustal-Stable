@@ -1,0 +1,5 @@
+/clientarea/mail/signup.php syntax error fixed
+/clientarea/cpanel.php line user login restriction
+/clientarea/account.php line user access restriction
+/clientarea/function/logout.php logout dueration changed
+/clientarea/createaccount.php blank error fixed
