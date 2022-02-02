@@ -1,0 +1,12 @@
+[02-Feb-2022 04:11:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/omegadri/public_html/testing-mofhy/clientarea/home.php on line 21
+[02-Feb-2022 04:11:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/omegadri/public_html/testing-mofhy/clientarea/ssls.php on line 26
+[02-Feb-2022 04:11:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/omegadri/public_html/testing-mofhy/clientarea/home.php on line 21
+[02-Feb-2022 04:13:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/omegadri/public_html/testing-mofhy/clientarea/home.php on line 21
+[02-Feb-2022 04:17:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/omegadri/public_html/testing-mofhy/clientarea/home.php on line 21
+[02-Feb-2022 04:18:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/omegadri/public_html/testing-mofhy/clientarea/home.php on line 21
+[02-Feb-2022 04:19:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/omegadri/public_html/testing-mofhy/clientarea/home.php on line 21
+[02-Feb-2022 04:19:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/omegadri/public_html/testing-mofhy/clientarea/home.php on line 21
+[02-Feb-2022 04:20:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/omegadri/public_html/testing-mofhy/clientarea/home.php on line 21
+[02-Feb-2022 04:21:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/omegadri/public_html/testing-mofhy/clientarea/home.php on line 21
+[02-Feb-2022 04:21:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/omegadri/public_html/testing-mofhy/clientarea/ssls.php on line 26
+[02-Feb-2022 04:21:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/omegadri/public_html/testing-mofhy/clientarea/home.php on line 21
